@@ -1,5 +1,3 @@
-<h3 align="left">Student. Aspiring web developer & designer.</h3>
-
 - 🔭 I’m currently working on [gitreleasenotes.com](https://gitreleasenotes.com)
 - ⚽ Building [footballcareer.app](https://footballcareer.app) as a hobby
 
