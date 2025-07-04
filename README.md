@@ -1,6 +1,3 @@
-- 🔭 I’m currently working on [gitreleasenotes.com](https://gitreleasenotes.com)
-- ⚽ Building [footballcareer.app](https://footballcareer.app) as a hobby
-
 - 👨‍💻 All of my projects and past work are available at [https://rusu.me](https://rusu.me)
  
 - 📫 Reach me at **rzrusu03@gmail.com**
