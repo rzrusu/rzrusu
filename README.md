@@ -9,5 +9,4 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-
 ![](https://komarev.com/ghpvc/?username=rzrusu&style=pixel)
